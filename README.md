@@ -1,9 +1,14 @@
-# api documentation for  [react-icons (v2.2.3)](https://github.com/gorangajic/react-icons#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-icons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-icons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-icons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-icons)
+# npmdoc-react-icons
+
+#### api documentation for  [react-icons (v2.2.3)](https://github.com/gorangajic/react-icons#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-icons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-icons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-icons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-icons)
+
 #### svg react icons of popular icon packs using ES6 imports
 
-[![NPM](https://nodei.co/npm/react-icons.png?downloads=true)](https://www.npmjs.com/package/react-icons)
+[![NPM](https://nodei.co/npm/react-icons.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-icons)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-icons/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-icons_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-icons/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-icons/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-icons/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-icons/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-icons/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-icons/build/screenCapture.npmPackageListing.svg)
 
@@ -93,8 +98,7 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "feroc1ty",
-            "email": "fero.null@gmail.com"
+            "name": "feroc1ty"
         }
     ],
     "name": "react-icons",
@@ -103,7 +107,6 @@
         "react": "^0.14.0 || ^15.0.0",
         "react-dom": "^0.14.0 || ^15.0.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/gorangajic/react-icons.git"
@@ -117,16 +120,6 @@
     "version": "2.2.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-icons](#apidoc.module.react-icons)
-
-
-
-# <a name="apidoc.module.react-icons"></a>[module react-icons](#apidoc.module.react-icons)
 
 
 
